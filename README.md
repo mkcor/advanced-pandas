@@ -4,6 +4,9 @@ https://python.g-node.org Summer School 2015
 
 ## Setup
 
+    $ conda env create -f environment.yml
+    $ source activate advanced-pandas
+
 ## Outline
 
 ### Pandas objects
