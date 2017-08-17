@@ -1,4 +1,4 @@
-# Advanced Pandas
+# Advanced data analysis techniques with Pandas
 
 https://python.g-node.org Summer School 2015
 
@@ -6,6 +6,7 @@ https://python.g-node.org Summer School 2015
 
     $ conda env create -f environment.yml
     $ source activate advanced-pandas
+    $ jupyter notebook
 
 ## Outline
 
