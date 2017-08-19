@@ -21,3 +21,5 @@ https://python.g-node.org Summer School 2015
 ### Testing (defensive programming)
 
 ### SQL-type operations
+
+## References
