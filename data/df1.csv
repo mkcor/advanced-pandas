@@ -1,0 +1,17 @@
+,country,g_whoregion,year,cases,type,sex,age_range
+2768,Greece,EUR,2000,1.0,sp,m,14
+10442,Greece,EUR,2000,10.0,sp,m,1524
+56486,Greece,EUR,2000,0.0,sp,f,14
+64160,Greece,EUR,2000,2.0,sp,f,1524
+110204,Greece,EUR,2000,,sn,m,14
+117878,Greece,EUR,2000,,sn,m,1524
+163922,Greece,EUR,2000,,sn,f,14
+171596,Greece,EUR,2000,,sn,f,1524
+217640,Greece,EUR,2000,,ep,m,14
+225314,Greece,EUR,2000,,ep,m,1524
+271358,Greece,EUR,2000,,ep,f,14
+279032,Greece,EUR,2000,,ep,f,1524
+325076,Greece,EUR,2000,,rel,m,14
+332750,Greece,EUR,2000,,rel,m,1524
+378794,Greece,EUR,2000,,rel,f,14
+386468,Greece,EUR,2000,,rel,f,1524
