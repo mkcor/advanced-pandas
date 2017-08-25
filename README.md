@@ -14,9 +14,9 @@ https://python.g-node.org Summer School 2015
 
 ### Data exploration
 
-### Multi-indexing
-
 ### Timeseries operations
+
+### Multi-indexing
 
 ### Testing (defensive programming)
 
