@@ -1,6 +1,6 @@
 # Advanced data analysis techniques with Pandas
 
-https://python.g-node.org Summer School 2015
+https://python.g-node.org Summer School 2017
 
 ## Setup
 
