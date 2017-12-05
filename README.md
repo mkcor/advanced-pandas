@@ -1,5 +1,7 @@
 # Advanced data analysis techniques with Pandas
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mkcor/advanced-pandas/master)
+
 https://python.g-node.org Summer School 2015
 
 ## Setup
